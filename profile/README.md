@@ -1,10 +1,9 @@
 # Welcome to our **WBDS LA**'s GitHub Organization 👋
 
 🙋‍♀️ What is our organization all about?
-**[Women in Bioinformatics and Data Science LA](https://wbds.la)**
-Somos una comunidad de mujeres que trabajan en las áreas de Bioinformática y Ciencia de Datos creada en 2019 con el objetivo de difundir y dar visibilidad a la investigación que realizan las mujeres en estas áreas. También buscamos crear redes y colaboración dentro de la comunidad de mujeres científicas del sector público y privado, nuestros proyectos tienen como objetivo reunir a investigadores de América Latina que trabajan en las áreas de biología de sistemas, tecnologías ómicas, inteligencia artificial, aprendizaje automático, ciencia de datos, minería de datos y computación de alto rendimiento con aplicaciones en biología del sector público y privado.
+**[Women in Bioinformatics and Data Science LA](https://wbds.la)**is a non-profit organization of women working in the fields of Bioinformatics and Data Science created in 2019 aiming at promoting and making visible the research carried out by women in these fields. We also seek to create networking and collaboration within the community of women scientists from both the public and private sectors. Our projects aim to bring together researchers from Latin America who work in the areas of systems biology, omics technologies, artificial intelligence, machine learning, data science, data mining and high-performance computing with applications in biology from the public and private sectors.
 
-🌈 If you like what we do you can collaborate by giving us stars in the repositories you find usefull or by [donating](https://opencollective.com/wbds-la/donate).
+🌈 If you like what we do you can collaborate by ⭐**giving us stars**⭐ in the repositories you find usefull or by [donating](https://opencollective.com/wbds-la/donate).
 
 👩‍  All the content here was created by [Women in Bioinformatic and Data Science in Latam](https://wbds.la) and & collaborators. And all the matterials and repos are under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]**. 
 
