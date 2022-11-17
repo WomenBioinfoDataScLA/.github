@@ -1,4 +1,4 @@
-## Welcome to our community's GitHub Organization 👋
+# Welcome to our **WBDS LA**'s GitHub Organization 👋
 
 🙋‍♀️ What is our organization all about?
 **[Women in Bioinformatics and Data Science LA](https://wbds.la)**
@@ -16,5 +16,5 @@ Somos una comunidad de mujeres que trabajan en las áreas de Bioinformática y C
 
 💻 Some of the content you will find here is also aviable in our [Youtube channel](https://www.youtube.com/c/WomenBioinformaticsNetworkLA)
 
-🔖 🔗 Check our social media to be awae of the news!
+🔖 🔗 Check our [social media](https://linktr.ee/wbds) to be awae of the news!
 
