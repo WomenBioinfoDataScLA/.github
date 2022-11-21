@@ -5,7 +5,7 @@
 
 🌈 If you like what we do you can collaborate by ⭐ **giving us stars** ⭐ in the repositories you find usefull, **following** us or by **[donating](https://opencollective.com/wbds-la/donate)** 💰🙏 
 
-👩‍  All the content here was created by [Women in Bioinformatic and Data Science in Latam](https://wbds.la) and & collaborators. And all the matterials and repos are under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]**. 
+👩‍ All the content here was created by [Women in Bioinformatic and Data Science in Latam](https://wbds.la) and & collaborators. And all the matterials and repos are under [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]**. 
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
@@ -15,5 +15,5 @@
 
 💻 Some of the content you will find here is also aviable in our [Youtube channel](https://www.youtube.com/c/WomenBioinformaticsNetworkLA)
 
-🔖 🔗 Check our [social media](https://linktr.ee/wbds) to be awae of the news!
+🔖 🔗 Check our [social media](https://linktr.ee/wbds) to be aware of the news!
 
